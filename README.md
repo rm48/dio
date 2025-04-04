@@ -10,3 +10,8 @@
 
 - [Link do GitHub](https://github.com/rm48/dio/tree/main/java/bra/DesafioControleFluxo)
 
+### POO / UML - Desafio
+
+Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+- [Link do GitHub](https://github.com/rm48/dio/tree/main/java/bra/uml-poo)
