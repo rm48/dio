@@ -17,5 +17,5 @@ Modelar e diagramar a representação UML do componente iPhone, abrangendo suas 
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ### Diagrama UML
-![(/src/iphone.png)](https://github.com/rm48/dio/blob/main/java/bra/uml-poo/src/iphone.png)
+![(/src/iphone.drawio)](https://github.com/rm48/dio/blob/main/java/bra/uml-poo/src/iphone.drawio)
 
