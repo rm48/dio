@@ -8,9 +8,9 @@ Create a class called "TaskList" that has a list of tasks as an attribute. Each 
   -  `getTaskQuantity()`: 	Returns the total number of tasks in the list.
   -  `getTaskDescriptions()`: 	Returns a list containing the description of all tasks in the list.
 
-  ![(/src/tasklist.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/tasklist.png)
+  ![(tasklist.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/list/task/tasklist.png)
   
-#### 2. Shopping Cart
+#### 2. Shopping CartList Search
 
 Create a class called "ShoppingCart" that represents an online shopping cart. The cart should be implemented as a list of items. Each item is represented by a class called "Item" that has attributes such as name, price, and quantity. Implement the following methods:
 
@@ -19,5 +19,36 @@ Create a class called "ShoppingCart" that represents an online shopping cart. Th
   -  `calculateTotalValue()`: 	Calculates and returns the total value of the cart, taking into account the price and quantity of each item.
   -  `displayItems()`: 	Displays all items in the cart, showing their names, prices and quantities.
   
-  ![(/src/shoppingcart.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/shoppingcart.png)
+  ![(shoppingcart.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/list/cart/shoppingcart.png)
   
+## List Search
+#### 1. Book Catalog
+
+Create a class called "BookCatalog" that has a list of objects of type "Book" as attributes. Each book has attributes such as title, author and year of publication. Implement the following methods:
+
+  -  `addBook(String title, String author, int publicationYear)`: Adds a book to the catalog.
+  -  `searchByAuthor(String author)`: Searches for books by author and returns a list of the books found.
+  -  `searchByYearsRange(int startYear, int endYear)`: Searches for books published in a given range of years and returns a list of the books found.
+  -  `searchByTitle(String title)`: Searches for books by title and returns the first book found.
+
+**Saída:**
+
+```
+a.1) [
+'Clean Code' - Robert C. Martin - 2009, 
+'The Clean Encoder' - Robert C. Martin - 2012]
+
+a.2) []
+
+b.1) [
+'Production-Ready Microservices' - Susan J. Fowler - 2017, 
+'Java Programmer's Guide' - Peter Jandl Junior - 2021, 
+'The Clean Encoder' - Robert C. Martin - 2012]
+
+b.2) []
+
+c.1) 
+'Java Programmer's Guide' - Peter Jandl Junior - 2021
+
+c.2) null
+```

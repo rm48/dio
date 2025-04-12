@@ -1,4 +1,4 @@
-package src;
+package src.list.task;
 
 public class Task {
 private String description;
