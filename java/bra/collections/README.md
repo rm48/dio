@@ -60,3 +60,13 @@ Create a class called "SumNumbers" that has a list of integers as an attribute. 
   -  `displayNumbers()`: Returns a list containing all numbers present in the list.
   
   ![(sumNum.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/list/search/sumNum.png)
+  
+##  List Sorting
+#### 1. Sorting Persons
+
+Create a class called "SortPersons" that has a list of objects of type "Person" as attributes. Each person has attributes such as name, age and height. Implement the following methods:
+
+  -  `addPerson(String name, int age, double height)`: Adds a person to the list.
+  -  `sortByAge()`: Sorts the people in the list by age using the Comparable interface.
+  -  `sortByHeight()`: Sorts the people in the list by height using a custom Comparator.
+  ![(person.png)](https://github.com/rm48/dio/blob/main/java/bra/collections/src/list/sort/person.png)
