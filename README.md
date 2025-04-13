@@ -2,23 +2,29 @@
 
 ## Projetos
 
-### Controle de Fluxo - Desafio
+### - [Controle de Fluxo - Desafio](https://github.com/rm48/dio/tree/main/java/bra/DesafioControleFluxo)
 
 1. Receber dois parâmetros via terminal que representarão dois números inteiros.
 2. Com estes dois números, obter a quantidade de interações (for).
 3. Realizar a impressão no console (System.out.print) dos números incrementados.
 
-- [Link](https://github.com/rm48/dio/tree/main/java/bra/DesafioControleFluxo)
 
-### POO / UML - Desafio
+
+### - [POO / UML - Desafio](https://github.com/rm48/dio/tree/main/java/bra/uml-poo)
 
 Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
-- [Link](https://github.com/rm48/dio/tree/main/java/bra/uml-poo)
 
-### List
-#### 1. Lista de Tarefas
 
-Criar uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo.
+### - [List](https://github.com/rm48/dio/tree/main/java/bra/collections)
+1. Lista de Tarefas
+2. Carrinho de Compras
 
-- [Link](https://github.com/rm48/dio/tree/main/java/bra/collections)
+#### Pesquisa em List
+1. Catálogo de Livros
+2. Soma de Números
+
+####  Ordenação em List
+1. Ordenação de Pessoas
+
+
