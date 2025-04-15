@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="bra/collections"/>
 	<classpathentry kind="src" path="bra/DesafioControleFluxo/src"/>
 	<classpathentry kind="src" path="bra/uml-poo/src"/>
+	<classpathentry kind="src" path="bra/DesafioBancoDigitalOO/src"/>
 	<classpathentry kind="output" path="bra/DesafioControleFluxo/bin"/>
 </classpath>
